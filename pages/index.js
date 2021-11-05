@@ -25,7 +25,7 @@ export default function Home() {
             </Head>
 
             <main className={styles.main}>
-                <h1 className={styles.title}>Let's load the lazy one</h1>
+                <h1 className={styles.title}>Lets load the lazy one</h1>
 
                 {
                     //start suspense code if window object available
